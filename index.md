@@ -1,6 +1,6 @@
 # Tableau
 
-- [ ] Set up Tableau Public
+[ ] Set up Tableau Public
 
 # Alteryx
 
