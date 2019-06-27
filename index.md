@@ -20,5 +20,5 @@ coming soon
 
 # d3.js
 
-coming soon
+[coming soon](/README.md)
 
