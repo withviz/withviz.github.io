@@ -16,6 +16,9 @@ What? | Why?
 
 # Python
 
+coming soon
 
 # d3.js
+
+coming soon
 
