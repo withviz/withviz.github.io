@@ -1,6 +1,6 @@
 # Tableau
 
-- [] Set up Tableau Public
+- [ ] Set up Tableau Public
 
 # Alteryx
 
@@ -16,4 +16,6 @@ What? | Why?
 
 # Python
 
+
 # d3.js
+
