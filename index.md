@@ -1,8 +1,9 @@
-# Tableau
+# Tableau, yeah?
 
 - [ ] Set up Tableau Public
+- [ ] Publish styleguide
 
-# Alteryx
+# Alteryx, yeah?
 
 ## Macros
 
@@ -14,11 +15,12 @@ What? | Why?
 [Remove Excess Commas](https://github.com/withviz/AlteryxMacros/tree/master/RemoveExcessCommas) | Removes excess commas in cells after concatentation
 
 
-# Python
+# Python, yeah?
 
 coming soon
 
-# d3.js
+# d3.js, yeah?
 
-[coming soon](/README.md)
+[coming soon](/d3js/)
+
 
