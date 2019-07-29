@@ -25,14 +25,14 @@ coming soon
 
 # list of free & open source data tools
 
-- http://openrefine.org
-- https://theodi.org.au/data-curator/
-- https://github.com/ananas-analytics/ananas-desktop
+- [OpenRefine](http://openrefine.org)
+- [Data Curator](https://theodi.org.au/data-curator/)
+- [Ananas](https://github.com/ananas-analytics/ananas-desktop)
 
 # list of free data tools
 
-- https://www.cs.waikato.ac.nz/~ml/weka/
+- [Weka](https://www.cs.waikato.ac.nz/~ml/weka/)
 
 # list of free data tools for Academic purposes only
 
-- http://www.julianhackinger.com/software/datagorri/
+- [Data Gorri](http://www.julianhackinger.com/software/datagorri/)
