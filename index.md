@@ -23,4 +23,15 @@ coming soon
 
 [coming soon](/d3js/)
 
+# list of free & open source data tools
 
+- http://openrefine.org
+- https://theodi.org.au/data-curator/
+
+# list of free data tools
+
+- https://www.cs.waikato.ac.nz/~ml/weka/
+
+# list of free data tools for Academic purposes only
+
+- http://www.julianhackinger.com/software/datagorri/
