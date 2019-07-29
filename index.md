@@ -27,6 +27,7 @@ coming soon
 
 - http://openrefine.org
 - https://theodi.org.au/data-curator/
+- https://github.com/ananas-analytics/ananas-desktop
 
 # list of free data tools
 
