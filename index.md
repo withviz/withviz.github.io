@@ -23,7 +23,7 @@ What? | Why?
 
 ## Ableton
 
-[Instrument pack explorer](/ableton/packs)
+[Instrument pack explorer](/ableton/packs/)
 
 # Data mining, prep and, ETL tools
 
