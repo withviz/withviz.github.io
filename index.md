@@ -14,6 +14,8 @@ What? | Why?
 [PostcodesIO](https://github.com/withviz/AlteryxMacros/tree/master/PostcodesIO) | Validates postcodes using the PostcodeIO API
 [Remove Excess Commas](https://github.com/withviz/AlteryxMacros/tree/master/RemoveExcessCommas) | Removes excess commas in cells after concatenate
 
+[Metadata Parser (fork)](https://github.com/withviz/Alteryx-Metadata-Parser)
+
 
 # d3.js, yeah?
 
