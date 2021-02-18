@@ -1,9 +1,9 @@
-# Tableau, yeah?
+# Tableau
 
 ## Web Data Connectors
 [Brewdog Punk API](/punkapiwdc/)
 
-# Alteryx, yeah?
+# Alteryx
 
 ## Macros
 
@@ -16,8 +16,11 @@ What? | Why?
 
 [Metadata Parser (fork)](https://github.com/withviz/Alteryx-Metadata-Parser)
 
+# Regex
 
-# d3.js, yeah?
+[regex examples](https://github.com/withviz/regex-examples)
+
+# d3.js
 
 [coming soon](/d3js/)
 
