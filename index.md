@@ -24,7 +24,7 @@ What? | Why?
 [Foundation Dataset Data dictionary and profile](#) | Takes a foundation dataset and automatically creates a data dictionary and data profile.
 [QR Code Generator](#) | Automatically creates a QR code for an individual record via Google
 [What do they know scraper](#) | Uses postcodes.io API to validate a list of UK postcodes.
-[200 OK](#) | Tests for 200 response from webserver when downloading a file. Stops the workflow it something goes wrong.
+[200 OK](#) | Tests for 200 response from webserver when downloading a file. Stops the workflow if something goes wrong.
 
 
 [Metadata Parser (fork)](https://github.com/withviz/Alteryx-Metadata-Parser)
