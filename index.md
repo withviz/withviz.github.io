@@ -11,7 +11,7 @@
 
 ## Macros
 
-Private repository but a list of things that I have made from scratch to use within a Team.
+Private repository but a selection of things that I have made from scratch to use within a Team.
 
 What? | Why?
 ------|-------------
