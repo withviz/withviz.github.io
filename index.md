@@ -2,6 +2,8 @@
 
 # Tableau
 
+[Temporary Public profile - not a showcase](https://public.tableau.com/profile/withviz#!/)
+
 ## Web Data Connectors
 [Brewdog Punk API](/punkapiwdc/)
 
@@ -18,7 +20,10 @@ What? | Why?
 
 [Metadata Parser (fork)](https://github.com/withviz/Alteryx-Metadata-Parser)
 
-# Regex
+# Agile templates
+[Notes and thoughts](https://github.com/withviz/agile-templates)
+
+# Regex - because one form of parsing is never enough
 
 [regex examples](https://github.com/withviz/regex-examples)
 
@@ -32,7 +37,7 @@ What? | Why?
 
 [Instrument pack explorer](/ableton/packs/)
 
-# Data mining, prep and, ETL tools
+# Data mining, prep and, ETL tools - bookmarks
 
 - [OpenRefine](http://openrefine.org)
 - [Data Curator](https://theodi.org.au/data-curator/)
