@@ -1,8 +1,4 @@
-# 23374
-
 # Tableau
-
-[Temporary Public profile - not a showcase](https://public.tableau.com/profile/withviz#!/)
 
 ## Web Data Connectors
 [Brewdog Punk API](/punkapiwdc/)
